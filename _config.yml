@@ -80,6 +80,7 @@ deploy:
   type: git
   repo: https://github.com/LightXJ/LightXJ.github.io.git
   branch: master
+  user: LightXJ
 
 jsonContent:
   meta: false
@@ -99,3 +100,6 @@ jsonContent:
     excerpt: false
     categories: false
     tags: true
+
+admin:
+  deployCommand: './hexo-deploy.sh'
