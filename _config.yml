@@ -4,19 +4,11 @@
 
 # Site
 title: LightXJ的博客
-<<<<<<< HEAD
 subtitle: 
 description: 前端程序员一枚
 author: LightXJ
 email: wxjneu@163.com
 keywords: "前端,js,jquery,javascript,html5,开发者,程序猿,,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,html,css,css3,用户体验"
-=======
-subtitle: 风清海阔，春暖花开
-description: 东北大学11级，就职于猫眼电影，前端工程师一枚
-author: LightXJ
-email: wxjneu@163.com
-keywords: "前端,js,jquery,javascript,html5,开发者,程序猿,程序媛,极客,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,html,css,css3,用户体验"
->>>>>>> a9596fc870ff0cf7e302ecd10774238326bc0e32
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
